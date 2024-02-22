@@ -27,4 +27,4 @@
 <br>
 <br>
 <br>
-![trophy](https://github-profile-trophy.vercel.app/?username=chloe0524&margin-w=15) 
+![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=transparent)
