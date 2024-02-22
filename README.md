@@ -21,5 +21,3 @@
 
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chloe0524)](https://github.com/ryo-ma/github-profile-trophy)
