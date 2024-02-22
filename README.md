@@ -15,4 +15,4 @@
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-4951F5?style=for-the-badge&logo=educative)
 
-[![trophy](https://github-profile-trophy.vercel.app/?chloe0524=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chloe0524)](https://github.com/ryo-ma/github-profile-trophy)
