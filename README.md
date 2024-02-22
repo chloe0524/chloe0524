@@ -27,4 +27,4 @@
 <br>
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=chloe0524&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)]
