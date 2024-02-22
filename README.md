@@ -20,5 +20,8 @@
 [![for main readme](https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f)](https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f)
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=chloe0524&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
