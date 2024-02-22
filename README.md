@@ -20,6 +20,10 @@
 <img src="https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f" width="5000">
 <br>
 <br>
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000" width="800">
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000" width="800">
+    </td>
+  </tr>
+</table>
