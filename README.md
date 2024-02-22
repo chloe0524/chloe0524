@@ -14,9 +14,12 @@
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-4951F5?style=for-the-badge&logo=educative)
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 [![for main readme](https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f)](https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f)
 <br>
 <br>
