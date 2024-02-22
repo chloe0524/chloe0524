@@ -15,7 +15,7 @@
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-4951F5?style=for-the-badge&logo=educative)
 
-![306779554-27b70110-5843-47f3-a2d3-2664921a25e3](https://github.com/chloe0524/chloe0524/assets/127857895/f637b497-6642-44d7-86fd-a2642b84db7c)
+![for main readme](https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chloe0524)](https://github.com/ryo-ma/github-profile-trophy)
