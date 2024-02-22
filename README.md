@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f" width="2100">
+<img src="https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f" width="5000">
 <br>
 <br>
 <center>
