@@ -27,4 +27,8 @@
 <br>
 <br>
 <br>
-![Chloe's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000)
+<center>
+
+<img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000" style="width: 100%;">
+
+</center>
