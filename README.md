@@ -9,6 +9,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-purple?style=for-the-badge&logo=obsidian)
+![Holberton](https://img.shields.io/badge/Holberton-School-FF0000?style=for-the-badge&logo=holberton%20school)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-4951F5?style=for-the-badge&logo=educative)
