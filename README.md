@@ -1,4 +1,4 @@
-![Holberton](https://img.shields.io/badge/Holberton-FF0000?style=for-the-badge&logo=holberton%20school&logoColor=white)
+![Holberton](https://img.shields.io/badge/Holberton-FF0000?style=for-the-badge&logo=hippocamp)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
