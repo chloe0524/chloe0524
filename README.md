@@ -9,5 +9,5 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
-![Educativ](https://img.shields.io/badge/Educative-learn%20to%code?style=for-the-badge&logo=educativ&logoColor=#4951F5)
+![Educativ](https://img.shields.io/badge/Educative-learn%20to%20code?style=for-the-badge&logo=educativ&logoColor=#4951F5)
 ![carbon (19)](https://github.com/chloe0524/chloe0524/assets/127857895/51544b4a-cbb4-489d-981f-76e8351449a9)
