@@ -14,4 +14,5 @@
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-4951F5?style=for-the-badge&logo=educative)
-![carbon (19)](https://github.com/chloe0524/chloe0524/assets/127857895/51544b4a-cbb4-489d-981f-76e8351449a9)
+
+[![trophy](https://github-profile-trophy.vercel.app/?chloe0524=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
