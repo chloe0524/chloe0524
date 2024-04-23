@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img height="300em" src="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq/giphy.gif">
+<img height="300em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEzMXB2ejBtN2dtYmltdnZ3aGd6cTJvMW11NGd6NGt5dG9yeGdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
 </p>
 
 <p align="center">
