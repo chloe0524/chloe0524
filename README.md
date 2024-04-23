@@ -1,4 +1,4 @@
-<h1 align="center">**Hi, I'm Chloe** :computer:</h1>
+<h1 align="center"><b>Hi, I'm Chloe </b> :computer:</h1>
 <br>
 
 ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23000099.svg?style=for-the-badge&logo=monster&logoColor=white)
