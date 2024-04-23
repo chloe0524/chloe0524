@@ -35,7 +35,7 @@
 <h1 align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=33ccff&icon_color=0066cc&bg_color=ffffff" width="550">
+    <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=33ccff&icon_color=0066cc&bg_color=ffffff" width="550">
     </td>
   </tr>
 </h1>
