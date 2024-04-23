@@ -44,5 +44,7 @@
 </h1>
 
 <p align="center">
+
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=055AAB&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3)](https://git.io/typing-svg)
+
 </p>
