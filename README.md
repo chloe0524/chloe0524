@@ -1,3 +1,9 @@
+
+![gifmaker_me](https://github.com/chloe0524/chloe0524/assets/127857895/95cf8bdc-2e2b-40c9-b28b-0d56b2c1dfd3)
+
+
+<br>
+<br>
 ![Holberton](https://img.shields.io/badge/Holberton-FF0000?style=for-the-badge&logo=hippocamp)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
