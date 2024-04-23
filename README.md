@@ -20,10 +20,10 @@
 ![1704977433398](https://github.com/chloe0524/chloe0524/assets/127857895/b9345463-a7f1-4435-9778-07634c56bd78)
 <br>
 <br>
-<h1 align="center">At Holberton I learned about</h1>
+<h2 align="center">At Holberton I learned about</h2>
 
 <p align="center">
-  ![carbon (24)](https://github.com/chloe0524/chloe0524/assets/127857895/e6809002-33a0-4593-8a24-5f49cc7ac9b4)
+ <img src="https://github.com/chloe0524/chloe0524/assets/127857895/e6809002-33a0-4593-8a24-5f49cc7ac9b4" alt="carbon (24)">
 </p>
 
 <br>
