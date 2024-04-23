@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/chloe0524/chloe0524/assets/127857895/f6609db9-19c3-4da0-b1ea-100c92db047f" width="9000">
+![1704977433398](https://github.com/chloe0524/chloe0524/assets/127857895/b9345463-a7f1-4435-9778-07634c56bd78)
 <br>
 <br>
 <h1 align="center">
