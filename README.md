@@ -21,7 +21,8 @@
 <br>
 <br>
 <h2 align="center">At Holberton I learned about</h2>
-
+<br>
+<br>
 <p align="center">
  <img src="https://github.com/chloe0524/chloe0524/assets/127857895/e6809002-33a0-4593-8a24-5f49cc7ac9b4" alt="carbon (24)">
 </p>
