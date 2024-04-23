@@ -38,7 +38,7 @@
 <p align="center">
    <img src="https://github.com/chloe0524/chloe0524/assets/127857895/d78d1509-1a9b-4a14-a9a4-19006fe47cbe" alt="carbon (24)" width="90%">
 </p>
-<h2>📍Statistics</h2>
+<h2>📍Account Statistics</h2>
 <h1 align="center">
    <tr>
       <td>
