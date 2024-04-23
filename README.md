@@ -20,7 +20,7 @@
 ![1704977433398](https://github.com/chloe0524/chloe0524/assets/127857895/b9345463-a7f1-4435-9778-07634c56bd78)
 <br>
 <br>
-| At Holberton I learned about                                                                                 |                                                                                                              |
+| At Holberton I learned about                                                                                 |         ![Holberton](https://img.shields.io/badge/Holberton-005DFF?style=for-the-badge&logo=hippocamp&logoColor=white) |                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | **C**                                                                                                        | **Python**                                                                                                   |
 | - Pointers and Function Pointers                                                                            | - Data Structures: Lists, Tuples, Sets, Dictionaries                                                        |
