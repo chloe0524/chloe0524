@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Chloe :computer:</h1>
+
 <br>
 ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23000099.svg?style=for-the-badge&logo=monster&logoColor=white)
 ![Holberton](https://img.shields.io/badge/Holberton-005DFF?style=for-the-badge&logo=hippocamp&logoColor=white)
@@ -18,6 +19,7 @@
 ![Edx](https://img.shields.io/badge/Edx-005A72?style=for-the-badge&logo=edx&logoColor=white)
 ![Educativ](https://img.shields.io/badge/Educativ-0E3E5B?style=for-the-badge&logo=educative&logoColor=white)
 <br>
+
 <h3>I'm a Software Engineering student. I started my first year at Holberton School in October 2023, with an expected graduation date of July 2024. Currently, I'm working on the fundamental curriculum.</h3>
 <br>
 <br>
