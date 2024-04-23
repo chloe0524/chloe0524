@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<h3>I'm a Software Engineering student. I started my first year at Holberton School in October 2023, with an expected graduation date of July 2024. Currently, I'm working on the fundamental curriculum.</h3>
+<h2>I'm a Software Engineering student. I started my first year at Holberton School in October 2023, with an expected graduation date of July 2024. Currently, I'm working on the fundamental curriculum.</h2>
 
 <br>
 <br>
