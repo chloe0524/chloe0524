@@ -20,7 +20,9 @@
 ![1704977433398](https://github.com/chloe0524/chloe0524/assets/127857895/b9345463-a7f1-4435-9778-07634c56bd78)
 <br>
 <br>
-<h2 align="center">At Holberton I learned about</h2>
+<p align="center">
+  <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639>
+</p>
 <br>
 <br>
 <p align="center">
