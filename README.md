@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300em" src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>">
+<iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=HOLBERTON+SCHOOL">
