@@ -30,11 +30,10 @@
 <p align="center">
 <img src="https://github.com/chloe0524/chloe0524/assets/127857895/e6809002-33a0-4593-8a24-5f49cc7ac9b4" alt="carbon (24)" width="90%">
 </p>
-<br>
 <h1 align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff" width="550">
+      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff" width="500">
     </td>
   </tr>
 </h1>
