@@ -20,6 +20,25 @@
 ![1704977433398](https://github.com/chloe0524/chloe0524/assets/127857895/b9345463-a7f1-4435-9778-07634c56bd78)
 <br>
 <br>
+| Software Engineer Student at Holberton School Toulouse, currently in my first year working on the fundamental curriculum. | ![Holberton](https://img.shields.io/badge/Holberton-005DFF?style=for-the-badge&logo=hippocamp&logoColor=white) |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **C**                                                                                                                       | ![C](https://img.shields.io/badge/C-003366?style=for-the-badge&logo=c&logoColor=white)                             |
+| - Pointers and Function Pointers                                                                                            |                                                                                                                   |
+| - Singly Linked / Doubly Linked List                                                                                        |                                                                                                                   |
+| - Bit Manipulation                                                                                                          |                                                                                                                   |
+| - Binary Trees                                                                                                              |                                                                                                                   |
+| - Big O Notation                                                                                                            |                                                                                                                   |
+| - Hash Tables                                                                                                               |                                                                                                                   |
+| - Shell Recoding                                                                                                            |                                                                                                                   |
+| **Python**                                                                                                                   | ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)             |
+| - Data Structures: Lists, Tuples, Sets, Dictionaries                                                                       |                                                                                                                   |
+| - Test Driven Development                                                                                                   |                                                                                                                   |
+| - Exceptions                                                                                                                |                                                                                                                   |
+| - Object Relational Mapping                                                                                                |                                                                                                                   |
+| - Classes and Inheritance                                                                                                   |                                                                                                                   |
+
+<br>
+<br>
 <h1 align="center">
   <tr>
     <td>
