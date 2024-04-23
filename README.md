@@ -23,8 +23,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=transparent&title_color=FF0000&text_color=FF0000&icon_color=FF0000" width="550">
-    </td>
+    <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=33ccff&icon_color=0066cc" width="550">    </td>
   </tr>
 </table>
 
