@@ -21,15 +21,9 @@
 <br>
 <br>
 <h1 align="center">At Holberton I learned about</h1>
-
-| **C**                                                                                                                                                       | **Python**                                                                                                                                                           |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - Pointers and Function Pointers                                                                                                                            | - Data Structures: Lists, Tuples, Sets, Dictionaries                                                                                                                |
-| - Singly Linked / Doubly Linked List                                                                                                                        | - Test Driven Development                                                                                                                                           |
-| - Bit Manipulation                                                                                                                                          | - Exceptions                                                                                                                                                        |
-| - Binary Trees                                                                                                                                              | - Object Relational Mapping                                                                                                                                         |
-| - Big O Notation                                                                                                                                            | - Classes and Inheritance                                                                                                                                           |
-|
+<p align="center">
+  ![carbon (24)](https://github.com/chloe0524/chloe0524/assets/127857895/e6809002-33a0-4593-8a24-5f49cc7ac9b4)
+</p>
 
 <br>
 <br>
