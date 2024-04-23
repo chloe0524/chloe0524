@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi, I'm Chloe </b> :computer:</h1>
+<h1 align="center"> ![Ajouter un titre (1)](https://github.com/chloe0524/chloe0524/assets/127857895/77d8d615-21d4-4919-a9c9-3b78b233c27d)
+:computer:</h1>
 <br>
 
 ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23000099.svg?style=for-the-badge&logo=monster&logoColor=white)
