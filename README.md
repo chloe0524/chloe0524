@@ -20,22 +20,17 @@
 ![1704977433398](https://github.com/chloe0524/chloe0524/assets/127857895/b9345463-a7f1-4435-9778-07634c56bd78)
 <br>
 <br>
-| At Holberton I learned about | ![Holberton](https://img.shields.io/badge/Holberton-005DFF?style=for-the-badge&logo=hippocamp&logoColor=white) |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **C**                                                                                                                       | ![C](https://img.shields.io/badge/C-003366?style=for-the-badge&logo=c&logoColor=white)                             |
-| - Pointers and Function Pointers                                                                                            |                                                                                                                   |
-| - Singly Linked / Doubly Linked List                                                                                        |                                                                                                                   |
-| - Bit Manipulation                                                                                                          |                                                                                                                   |
-| - Binary Trees                                                                                                              |                                                                                                                   |
-| - Big O Notation                                                                                                            |                                                                                                                   |
-| - Hash Tables                                                                                                               |                                                                                                                   |
-| - Shell Recoding                                                                                                            |                                                                                                                   |
-| **Python**                                                                                                                   | ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)             |
-| - Data Structures: Lists, Tuples, Sets, Dictionaries                                                                       |                                                                                                                   |
-| - Test Driven Development                                                                                                   |                                                                                                                   |
-| - Exceptions                                                                                                                |                                                                                                                   |
-| - Object Relational Mapping                                                                                                |                                                                                                                   |
-| - Classes and Inheritance                                                                                                   |                                                                                                                   |
+| At Holberton I learned about                                                                                 |                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| **C**                                                                                                        | **Python**                                                                                                   |
+| - Pointers and Function Pointers                                                                            | - Data Structures: Lists, Tuples, Sets, Dictionaries                                                        |
+| - Singly Linked / Doubly Linked List                                                                        | - Test Driven Development                                                                                    |
+| - Bit Manipulation                                                                                           | - Exceptions                                                                                                 |
+| - Binary Trees                                                                                               | - Object Relational Mapping                                                                                  |
+| - Big O Notation                                                                                             | - Classes and Inheritance                                                                                    |
+| - Hash Tables                                                                                                |                                                                                                              |
+| - Shell Recoding                                                                                             |                                                                                                              |
+
 
 <br>
 <br>
