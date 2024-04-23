@@ -22,7 +22,7 @@
 ![Educativ](https://img.shields.io/badge/Educativ-0E3E5B?style=for-the-badge&logo=educative&logoColor=white)
 
 <br>
-##:round_pushpin: About me
+## :round_pushpin: About me
 <h3>I'm a Software Engineering student. I started my first year at Holberton School in October 2023, with an expected graduation date of July 2024. Currently, I'm working on the fundamental curriculum.</h3>
 <br>
 <br>
