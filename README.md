@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chloe :computer:</h1>
-
+<br>
 ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23000099.svg?style=for-the-badge&logo=monster&logoColor=white)
 ![Holberton](https://img.shields.io/badge/Holberton-005DFF?style=for-the-badge&logo=hippocamp&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23004D99.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
