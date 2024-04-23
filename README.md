@@ -1,10 +1,6 @@
 <p align="center">
 <p align="center">
-<img height="300em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEzMXB2ejBtN2dtYmltdnZ3aGd6cTJvMW11NGd6NGt5dG9yeGdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&pause=1000&color=F70000&center=true&width=440&lines=HOLBERTON+SCHOOL">
+<img height="500em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEzMXB2ejBtN2dtYmltdnZ3aGd6cTJvMW11NGd6NGt5dG9yeGdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
 </p>
 
 
