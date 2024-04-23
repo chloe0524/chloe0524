@@ -1,9 +1,3 @@
-<p align="center">
-<p align="center">
-<img height="500em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEzMXB2ejBtN2dtYmltdnZ3aGd6cTJvMW11NGd6NGt5dG9yeGdwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
-</p>
-
-
 ![Holberton](https://img.shields.io/badge/Holberton-FF0000?style=for-the-badge&logo=hippocamp)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,5 +28,5 @@
   </tr>
 </table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=055AAB&random=false&width=440&lines=C%2322+TLS+forever+in+my+heart+%3C3)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=055AAB&random=false&width=440&lines=C%2322+TLS+forever+in+my+heart+%3C3)](https://git.io/typing-svg)</h1>
 
