@@ -35,11 +35,13 @@
 <p>I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
 <br>
 <br>
+![carbon (30)](https://github.com/user-attachments/assets/f4c051cb-affb-4c93-b217-7df2ca5f094d)
+
 <p align="center">
    <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639" width="40%">
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/18b78dad-8541-44d4-b2b5-e3f11285f34e" alt="carbon (24)" width="90%">
+   <img src="https://github.com/user-attachments/assets/f4c051cb-affb-4c93-b217-7df2ca5f094d" alt="carbon (24)" width="90%">
 <p align="center">
    <img src="https://github.com/chloe0524/chloe0524/assets/127857895/063db361-a65b-4eba-8484-5422af173ce6" alt="carbon (24)" width="90%">
 </p>
