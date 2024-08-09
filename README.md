@@ -40,7 +40,7 @@
    <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639" width="40%">
 </p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/54baa794-f2da-4e66-8440-c0a9236deb0f" alt="carbon (24)" width="90%">
+   <img src="https://github.com/user-attachments/assets/5a28f3b1-290b-4de2-893c-79d38e6b1925" alt="carbon (24)" width="90%">
 <p>
 <p align="center">
    <img src="https://github.com/chloe0524/chloe0524/assets/127857895/063db361-a65b-4eba-8484-5422af173ce6" alt="carbon (24)" width="90%">
