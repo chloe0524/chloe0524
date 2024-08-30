@@ -52,7 +52,7 @@
    <img src="https://github.com/user-attachments/assets/7985476c-505b-4ad9-9ee7-44a5ea1c2c8e" alt="carbon (24)" width="90%">
 </p>
 <p align="center">
-   <img src=(https://github.com/user-attachments/assets/448661a0-6eee-4885-8a25-702e5df55331" alt="carbon (24)" width="90%">
+   <img src="https://github.com/user-attachments/assets/448661a0-6eee-4885-8a25-702e5df55331" alt="carbon (24)" width="90%">
 </p>
 <h2>📍Account Statistics</h2>
 <h1 align="center">
