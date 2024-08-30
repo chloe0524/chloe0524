@@ -40,6 +40,9 @@
    <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639" width="40%">
 </p>
 <p align="center">
+   <img src="https://github.com/user-attachments/assets/632c0c40-9e59-40f7-b9ea-02587ba86025" alt="carbon (24)" width="90%">
+<p>
+<p align="center">
    <img src="https://github.com/user-attachments/assets/5a28f3b1-290b-4de2-893c-79d38e6b1925" alt="carbon (24)" width="90%">
 <p>
 <p align="center">
