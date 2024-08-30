@@ -43,7 +43,7 @@
    <img src="https://github.com/user-attachments/assets/b0a85bec-4449-4a1e-b140-27243bd61371" alt="carbon (24)" width="90%">
 <p>
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/79f7d223-7ee2-422f-98f3-0c6086b154eb" alt="carbon (24)" width="90%">
+   <img src="https://github.com/user-attachments/assets/d8d0e789-ca6f-4264-8c71-506577c9ef6e" alt="carbon (24)" width="90%">
 </p>
 <p align="center">
    <img src="https://github.com/user-attachments/assets/f5180d09-fa22-41ca-8f47-899466cae0f3" alt="carbon (24)" width="90%">
