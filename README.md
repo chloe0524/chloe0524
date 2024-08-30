@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-   <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639" width="40%">
+   <img src="https://github.com/user-attachments/assets/ca38ac84-4d7f-43a6-b6c4-fa5d07c37f7e" width="40%">
 </p>
 <p align="center">
    <img src="https://github.com/user-attachments/assets/5a28f3b1-290b-4de2-893c-79d38e6b1925" alt="carbon (24)" width="90%">
