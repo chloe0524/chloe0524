@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/23d7c4e7-67c1-436c-b82f-3833f3ec0b99">
+   <img src="https://github.com/user-attachments/assets/5c61ebf5-b1a8-4f23-a189-55748085f3ce">
 </p>
 <br>
 
@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/d1c58925-9796-41c2-a064-c46dc29a0133">
+   <img src="https://github.com/user-attachments/assets/6f608d59-36e2-44cf-9e8c-706d70d224ea">
 </p>
 <p align="center">
    <img src="https://github.com/user-attachments/assets/7a6a15f2-e14e-4704-a65d-eb9f45c83238" alt="carbon (24)" width="90%">
