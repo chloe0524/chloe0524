@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/5c61ebf5-b1a8-4f23-a189-55748085f3ce">
+   <img src="https://github.com/chloe0524/chloe0524/assets/127857895/77d8d615-21d4-4919-a9c9-3b78b233c27d" width="80%">
 </p>
 <br>
 
@@ -35,18 +35,27 @@
 <p>I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
 <br>
 <br>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/6f608d59-36e2-44cf-9e8c-706d70d224ea">
-</p>
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/7be6a244-7320-4704-82b5-8416ff6f08b1" alt="carbon (24)" width="100%">
+   <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639" width="40%">
+</p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
+<p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
+</p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" width="90%">
+</p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" width="90%">
 </p>
 <h2>📍Account Statistics</h2>
 <h1 align="center">
    <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=d4e2f5" width="650">
+         <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff" width="650">
       </td>
    </tr>
 </h1>
