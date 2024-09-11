@@ -129,7 +129,19 @@
 <h1 align="center">
    <picture>
       <source 
-         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=eb9300&text_color=eb9300&icon_color=eb9300&bg_color=0D1117"
+         srcset="https://github.com/chloe0524/chloe0524/raw/main/dark_mode_profile.png"
+         media="(prefers-color-scheme: dark)"
+      />
+      <source
+         srcset="https://github.com/chloe0524/chloe0524/raw/main/light_mode_profile.png"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github.com/chloe0524/chloe0524/raw/main/light_mode_profile.png" width="200" alt="Profile Picture">
+   </picture>
+   <br><br>
+   <picture>
+      <source 
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&ring_color=ffffff&number_format=long&card_width=495&rank_icon=github&include_all_commits=true&line_height=28&hide_title=true"
          media="(prefers-color-scheme: dark)"
       />
       <source
