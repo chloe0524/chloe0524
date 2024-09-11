@@ -1,7 +1,7 @@
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b32e152c-ef08-469f-af3f-0b9045d16dc5" width="80%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c" width="80%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b32e152c-ef08-469f-af3f-0b9045d16dc5">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c">
       <img src="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c" alt="Image for light theme" width="80%">
    </picture>
 </p>
@@ -79,17 +79,17 @@
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6f3d0f77-f9b5-4259-8f89-bd1923f85415" width="40%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" width="40%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6f3d0f77-f9b5-4259-8f89-bd1923f85415">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea">
       <img src="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" alt="Image for light theme" width="40%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7a8a220f-f826-4a8c-a063-d9e9329682a8" alt="iron" width="90%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
-      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7a8a220f-f826-4a8c-a063-d9e9329682a8" alt="iron">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)">
+      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)">
    </picture>
 </p>
 
