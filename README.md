@@ -124,7 +124,6 @@
       <img src="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
    </picture>
 </p>
-
 <h2>📍Account Statistics</h2>
 <h1 align="center">
    <picture>
