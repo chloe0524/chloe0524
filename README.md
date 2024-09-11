@@ -35,24 +35,12 @@
 <p>I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
 <br>
 <br>
-
 <p align="center">
    <img src="https://github.com/user-attachments/assets/6f608d59-36e2-44cf-9e8c-706d70d224ea">
 </p>
+
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/7a6a15f2-e14e-4704-a65d-eb9f45c83238" alt="carbon (24)" width="90%">
-<p>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/d8d0e789-ca6f-4264-8c71-506577c9ef6e" alt="carbon (24)" width="90%">
-</p>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/f5180d09-fa22-41ca-8f47-899466cae0f3" alt="carbon (24)" width="90%">
-</p>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/7985476c-505b-4ad9-9ee7-44a5ea1c2c8e" alt="carbon (24)" width="90%">
-</p>
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/1ee359e0-1a11-4edf-9cda-e623fe2acfb9" alt="carbon (24)" width="90%">
+   <img src="https://github.com/user-attachments/assets/7be6a244-7320-4704-82b5-8416ff6f08b1" alt="carbon (24)" width="100%">
 </p>
 <h2>📍Account Statistics</h2>
 <h1 align="center">
