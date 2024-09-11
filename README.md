@@ -6,8 +6,6 @@
    </picture>
 </p>
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="
     ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23FF6F00.svg?style=for-the-badge&logo=monster&logoColor=white)
