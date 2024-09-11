@@ -133,15 +133,14 @@
               <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=radical&title_color=eb9300&text_color=eb9300&icon_color=eb9300&bg_color=000000">
               <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff">
          </picture>
-
       </td>
    </tr>
 </h1>
 <h1 align="center">
-
    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=eb9300&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
-        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=eb9300&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3" alt="Typing SVG">
    </picture>
-
 </h1>
+
