@@ -85,7 +85,7 @@
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/19386ca8-d0c4-4b44-804d-d90d260833fe" alt="iron" width="90%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/02e506bd-30d0-4ef8-ade1-08e68a5c05f4" alt="iron" width="90%">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
       <img src="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
    </picture>
