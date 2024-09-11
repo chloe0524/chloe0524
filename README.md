@@ -58,11 +58,11 @@
 <h1 align="center">
    <tr>
       <td>
-         <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff" width="650">
+         <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=00ccff&text_color=00ffff&icon_color=00bfff&bg_color=ffffff" width="650">
       </td>
    </tr>
 </h1>
 <h1 align="center">
 
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=055AAB&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=00ccff&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3)](https://git.io/typing-svg)
 </h1>
