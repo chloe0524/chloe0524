@@ -132,7 +132,7 @@
       />
       <source
          srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff"
-         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+         media="(prefers-color-scheme: light)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff" width="650">
    </picture>
