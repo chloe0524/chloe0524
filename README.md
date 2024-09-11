@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/chloe0524/chloe0524/assets/127857895/77d8d615-21d4-4919-a9c9-3b78b233c27d" width="80%">
+   <img src="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c" width="80%">
 </p>
 <br>
 
@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-   <img src="https://github.com/chloe0524/chloe0524/assets/127857895/37a69fb6-7a3f-459b-8f60-c4328594f639" width="40%">
+   <img src="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" width="40%">
 </p>
 <p align="center">
    <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
