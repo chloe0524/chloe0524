@@ -88,7 +88,7 @@
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7a8a220f-f826-4a8c-a063-d9e9329682a8" alt="iron">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)">
-      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" style="width: 100%; max-width: 650px;">
+      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" style="width: 100%; max-width: 400px;">
    </picture>
 </p>
 
