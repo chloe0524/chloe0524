@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <p align="center">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b32e152c-ef08-469f-af3f-0b9045d16dc5">
