@@ -49,6 +49,9 @@
    <img src="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" width="90%">
 </p>
 <p align="center">
+   <img src="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)" width="90%">
+</p>
+<p align="center">
    <img src="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" width="90%">
 </p>
 <h2>📍Account Statistics</h2>
