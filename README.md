@@ -1,12 +1,12 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b32e152c-ef08-469f-af3f-0b9045d16dc5">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c">
-      <img src="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c" alt="Image for light theme" style="width: 100%; max-width: 650px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b32e152c-ef08-469f-af3f-0b9045d16dc5" width="80%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c" width="80%">
+      <img src="https://github.com/user-attachments/assets/5dcd7794-9605-4dc7-bf6b-45f48d67877c" alt="Image for light theme" width="80%">
    </picture>
 </p>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="
@@ -72,71 +72,79 @@
 
 <br>
 
-<h2 >📍About me</h2>
+<h2>📍About me</h2>
 <p>I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
 
+<br>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6f3d0f77-f9b5-4259-8f89-bd1923f85415">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea">
-      <img src="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" alt="Image for light theme" style="width: 80%; max-width: 400px">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6f3d0f77-f9b5-4259-8f89-bd1923f85415" width="40%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" width="40%">
+      <img src="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" alt="Image for light theme" width="40%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7a8a220f-f826-4a8c-a063-d9e9329682a8" alt="iron">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)">
-      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" style="width: 100%; max-width: 400px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7a8a220f-f826-4a8c-a063-d9e9329682a8" alt="iron" width="90%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
+      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/af83e3d3-8f28-4a1f-becd-7989b8abcc8a" alt="iron">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)">
-      <img src="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" style="width: 100%; max-width: 650px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/af83e3d3-8f28-4a1f-becd-7989b8abcc8a" alt="iron" width="90%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" width="90%">
+      <img src="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" width="90%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c9e36e96-88dd-4d3a-806b-83369bbc4a82" alt="iron">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)">
-      <img src="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)" style="width: 100%; max-width: 650px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c9e36e96-88dd-4d3a-806b-83369bbc4a82" alt="iron" width="90%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)" width="90%">
+      <img src="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)" width="90%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e2e16f0e-5aa1-449c-b539-5d9876bcee0d" alt="iron">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)">
-      <img src="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" style="width: 100%; max-width: 650px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e2e16f0e-5aa1-449c-b539-5d9876bcee0d" alt="iron" width="90%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" width="90%">
+      <img src="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" width="90%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/170d9e74-9851-4db2-8df5-597f070178b3" alt="iron">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)">
-      <img src="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" style="width: 100%; max-width: 650px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/170d9e74-9851-4db2-8df5-597f070178b3" alt="iron" width="90%">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
+      <img src="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
    </picture>
 </p>
 
 <h2>📍Account Statistics</h2>
 <h1 align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=eb9300&text_color=ffffff&icon_color=eb9300&bg_color=0D1117">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff">
-      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff" style="width: 100%; max-width: 650px;">
+      <source 
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=eb9300&text_color=ffffff&icon_color=eb9300&bg_color=0D1117" 
+         media="(prefers-color-scheme: dark)"
+      />
+      <source
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff" width="650">
    </picture>
 </h1>
+
 
 <h1 align="center">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=eb9300&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3" alt="Typing SVG" style="width: 100%; max-width: 440px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3" alt="Typing SVG">
    </picture>
 </h1>
