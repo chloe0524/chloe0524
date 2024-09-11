@@ -72,8 +72,9 @@
 
 <br>
 
-<h2>📍About me</h2>
-<p>I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
+<h2 style="font-size: 1.5em;">📍About me</h2>
+<p style="font-size: 1em;">I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
+
 
 <p align="center">
    <picture>
@@ -123,7 +124,7 @@
    </picture>
 </p>
 
-<h2>📍Account Statistics</h2>
+<h2 style="font-size: 1.5em;">📍Account Statistics</h2>
 <h1 align="center">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=eb9300&text_color=ffffff&icon_color=eb9300&bg_color=0D1117">
