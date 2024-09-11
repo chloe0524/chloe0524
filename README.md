@@ -130,11 +130,11 @@
          srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=eb9300&text_color=ffffff&icon_color=eb9300&bg_color=0D1117" 
          media="(prefers-color-scheme: dark)"
       />
-      <source
-         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff"
-         media="(prefers-color-scheme: light)"
+       <source
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=0a14ff&icon_color=0a14ff&bg_color=ffffff"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=ffffff&icon_color=0a14ff&bg_color=ffffff" width="650">
+      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=0a14ff&icon_color=0a14ff&bg_color=ffffff" width="650">
    </picture>
 </h1>
 
