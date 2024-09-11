@@ -1,20 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<style>
-  h2, p {
-    font-size: 1rem;
-  }
-  @media only screen and (max-width: 600px) {
-    h2 {
-      font-size: 0.9rem;
-    }
-
-    p {
-      font-size: 0.8rem;
-    }
-  }
-</style>
-
 <p align="center">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b32e152c-ef08-469f-af3f-0b9045d16dc5">
