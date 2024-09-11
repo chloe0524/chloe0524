@@ -126,12 +126,19 @@
 </p>
 
 <h2>📍Account Statistics</h2>
-<p align="center">
+<h1 align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=radical&title_color=eb9300&text_color=eb9300&icon_color=eb9300&bg_color=000000">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff">
+      <source 
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=dark&title_color=eb9300&text_color=eb9300&icon_color=eb9300&bg_color=0D1117"
+         media="(prefers-color-scheme: dark)"
+      />
+      <source
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0099ff&text_color=002f5b&icon_color=0066cc&bg_color=ffffff" width="650">
    </picture>
-</p>
+</h1>
 
 <h1 align="center">
    <picture>
