@@ -77,7 +77,7 @@
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/01fb2be9-aa60-477f-bf6f-16e75f70915f" width="40%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/01fb2be9-aa60-477f-bf6f-16e75f70915f">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" width="40%">
       <img src="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" alt="Image for light theme" width="40%">
    </picture>
