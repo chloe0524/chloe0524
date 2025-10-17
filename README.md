@@ -155,7 +155,9 @@
 <br>
 
 <h2>📍About me</h2>
-<p>I'm a Software Engineering student. I started my first year at Holberton School in October 2023 and graduated on July 12, 2024. Now that I'm done with my first year working on the "Fundamentals of Web Development" curriculum, I'm specializing in cybersecurity.</p>
+<p>I'm a Software Engineering student at Holberton School. I completed the first-year "Fundamentals of Web Development" curriculum (Oct 2023 - Jul 2024) and am now specializing in cybersecurity, developing skills in areas such as network security, ethical hacking, and vulnerability assessment. As part of my work-study program, I'm gaining hands-on experience in DevSecOps, securing CI/CD pipelines and integrating security tools into development workflows.</p>
+
+<p>Je suis étudiante en ingénierie logicielle à la Holberton School. J'ai terminé la première année du programme "Fundamentals of Web Development" (oct. 2023 - juil. 2024) et je me spécialise désormais en cybersécurité, avec des compétences en sécurité réseau, hacking éthique et analyse de vulnérabilités. Dans le cadre de mon programme en alternance, j'acquiers une expérience pratique en DevSecOps, sécurisation de pipelines CI/CD et intégration d'outils de sécurité dans les workflows de développement.</p>
 
 <br>
 
@@ -177,24 +179,23 @@
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f4a4ba8d-6ae0-4891-888f-9a77d9d45006">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/337701b3-763a-4910-b16c-f81f5d1bc3e8">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4a5885da-79d8-45c6-81eb-caf5372f486e">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5d00e909-077e-49cd-9d4b-e7b4129477e5">
       <img src="https://github.com/user-attachments/assets/337701b3-763a-4910-b16c-f81f5d1bc3e8" alt="Infrastructure, Cloud & IaC Security" width="75%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/803359b1-2f04-4434-9b3a-1a1be46a9f49">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e51cf3c8-f986-4115-b65c-58387040c9bc">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c3b836c8-31d9-46ff-bba2-76db2329f54c">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6c333c10-dbf2-48f2-9c16-1d4b1b01524f">
       <img src="https://github.com/user-attachments/assets/e51cf3c8-f986-4115-b65c-58387040c9bc" alt="Network Security" width="75%">
    </picture>
 </p>
-
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b2c9d4e6-dc01-4ba3-a75e-93068d95f2a2">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/98ac5cd2-1787-4e40-8ba9-bbb96d8de48a">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c609ce5a-c792-4bca-a2de-66ef9fb2792c">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/22ccec86-49f8-48c8-9053-b6d6b4ce550c">
       <img src="https://github.com/user-attachments/assets/98ac5cd2-1787-4e40-8ba9-bbb96d8de48a" alt="Development" width="75%">
    </picture>
 </p>
