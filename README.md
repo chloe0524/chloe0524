@@ -65,9 +65,6 @@
   ">
 </picture>
 
-
-
-
 <br>
 
 <h2>📍About me</h2>
@@ -77,17 +74,49 @@
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dd19c845-8f32-4bf1-8285-344e67b6ff8b">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/134db8e8-156d-41ce-9fdb-f30f80f703c8">
-      <img src="https://github.com/user-attachments/assets/134db8e8-156d-41ce-9fdb-f30f80f703c8" alt="Application Security" width="90%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3abea1b0-dc5d-4a27-ba20-d82e2e5a632f">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b290cc86-550b-4c7f-8d36-79415fdfa699">
+      <img src="https://github.com/user-attachments/assets/b290cc86-550b-4c7f-8d36-79415fdfa699" alt="Application Security" width="75%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8972d5ca-bccd-4823-a906-2d1b8fa0254c">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/51edf828-fb50-4306-be33-f7e31562637f">
-      <img src="https://github.com/user-attachments/assets/51edf828-fb50-4306-be33-f7e31562637f" alt="Infrastructure, Cloud & IaC Security" width="90%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/780217b7-3612-4f82-8f7d-e0d0ba5d606b">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9709c773-2698-4e2a-b92b-e650459d8c80">
+      <img src="https://github.com/user-attachments/assets/9709c773-2698-4e2a-b92b-e650459d8c80" alt="CI/CD" width="75%">
+   </picture>
+</p>
+
+<p align="center">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f4a4ba8d-6ae0-4891-888f-9a77d9d45006">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/337701b3-763a-4910-b16c-f81f5d1bc3e8">
+      <img src="https://github.com/user-attachments/assets/337701b3-763a-4910-b16c-f81f5d1bc3e8" alt="Infrastructure, Cloud & IaC Security" width="75%">
+   </picture>
+</p>
+
+<p align="center">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/803359b1-2f04-4434-9b3a-1a1be46a9f49">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e51cf3c8-f986-4115-b65c-58387040c9bc">
+      <img src="https://github.com/user-attachments/assets/e51cf3c8-f986-4115-b65c-58387040c9bc" alt="Network Security" width="75%">
+   </picture>
+</p>
+
+<p align="center">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b2c9d4e6-dc01-4ba3-a75e-93068d95f2a2">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/98ac5cd2-1787-4e40-8ba9-bbb96d8de48a">
+      <img src="https://github.com/user-attachments/assets/98ac5cd2-1787-4e40-8ba9-bbb96d8de48a" alt="Development" width="75%">
+   </picture>
+</p>
+
+<p align="center">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e6c92730-dd7f-4d17-bfc0-d4333bcd993a">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/42499a90-5623-4407-9ce6-8c35eec79b4b">
+      <img src="https://github.com/user-attachments/assets/42499a90-5623-4407-9ce6-8c35eec79b4b" alt="Tools" width="75%">
    </picture>
 </p>
 
