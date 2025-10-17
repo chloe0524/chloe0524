@@ -6,15 +6,15 @@
    </picture>
 </p>
 
+<h2 align="center">💻 Tech & Tools</h2>
+
 <picture>
+  <!-- Dark mode -->
   <source media="(prefers-color-scheme: dark)" srcset="
     ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23FF6F00.svg?style=for-the-badge&logo=monster&logoColor=white)
-    ![Holberton](https://img.shields.io/badge/Holberton-%23F57F17?style=for-the-badge&logo=hippocamp&logoColor=white)
     ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23FF6F00.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
     ![Metasploit](https://img.shields.io/badge/Metasploit-%23F57F17.svg?style=for-the-badge&logo=metasploit&logoColor=white)
-    ![Oracle VM Box](https://img.shields.io/badge/Oracle_VM_Box-%23F57F17?style=for-the-badge&logo=virtualbox&logoColor=white)
-    ![JumpCloud](https://img.shields.io/badge/JumpCloud-%23F57F17?style=for-the-badge&logo=jumpcloud&logoColor=white)
-    ![Splunk](https://img.shields.io/badge/Splunk-%23F57F17?style=for-the-badge&logo=splunk&logoColor=white)
+    ![Oracle VM Box](https://img.shields.io/badge/Oracle_VM_Box-%23F57F17.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
     ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23F57F17?style=for-the-badge&logo=cybersecurity&logoColor=white)
     ![Shodan](https://img.shields.io/badge/Shodan-%23F57F17?style=for-the-badge&logo=shodan&logoColor=white)
     ![Censys](https://img.shields.io/badge/Censys-%23F57F17?style=for-the-badge&logo=censys&logoColor=white)
@@ -29,20 +29,20 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23F57F17?style=for-the-badge&logo=markdown&logoColor=white)
     ![Docker](https://img.shields.io/badge/docker-%23F57F17?style=for-the-badge&logo=docker&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%23F57F17?style=for-the-badge&logo=Canva&logoColor=white)
-    ![Notion](https://img.shields.io/badge/Notion-%23F57F17?style=for-the-badge&logo=notion&logoColor=white)
     ![Obsidian](https://img.shields.io/badge/Obsidian-%23F57F17?style=for-the-badge&logo=obsidian&logoColor=white)
-    ![Datacamp](https://img.shields.io/badge/Datacamp-%23F57F17?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
     ![Edx](https://img.shields.io/badge/Edx-%23F57F17?style=for-the-badge&logo=edx&logoColor=white)
     ![Educativ](https://img.shields.io/badge/Educativ-%23F57F17?style=for-the-badge&logo=educative&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/Terraform-%23F57F17?style=for-the-badge&logo=terraform&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-%23F57F17?style=for-the-badge&logo=gitlab&logoColor=white)
+    ![Cloud](https://img.shields.io/badge/Cloud-%23F57F17?style=for-the-badge&logo=cloud&logoColor=white)
   ">
+
+  <!-- Light mode -->
   <source media="(prefers-color-scheme: light)" srcset="
     ![Monster Energy](https://img.shields.io/badge/Monster_Energy-%23000099.svg?style=for-the-badge&logo=monster&logoColor=white)
-    ![Holberton](https://img.shields.io/badge/Holberton-005DFF?style=for-the-badge&logo=hippocamp&logoColor=white)
     ![Kali Linux](https://img.shields.io/badge/Kali_Linux-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)
     ![Metasploit](https://img.shields.io/badge/Metasploit-000080?style=for-the-badge&logo=metasploit&logoColor=white)
     ![Oracle VM Box](https://img.shields.io/badge/Oracle_VM_Box-0075B2?style=for-the-badge&logo=virtualbox&logoColor=white)
-    ![JumpCloud](https://img.shields.io/badge/JumpCloud-0033A0?style=for-the-badge&logo=jumpcloud&logoColor=white)
-    ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
     ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-003366?style=for-the-badge&logo=cybersecurity&logoColor=white)
     ![Shodan](https://img.shields.io/badge/Shodan-00599C?style=for-the-badge&logo=shodan&logoColor=white)
     ![Censys](https://img.shields.io/badge/Censys-00A1E0?style=for-the-badge&logo=censys&logoColor=white)
@@ -57,11 +57,12 @@
     ![Markdown](https://img.shields.io/badge/markdown-0066CC?style=for-the-badge&logo=markdown&logoColor=white)
     ![Docker](https://img.shields.io/badge/docker-0091EA?style=for-the-badge&logo=docker&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-    ![Notion](https://img.shields.io/badge/Notion-0095D5?style=for-the-badge&logo=notion&logoColor=white)
     ![Obsidian](https://img.shields.io/badge/Obsidian-5865F2?style=for-the-badge&logo=obsidian&logoColor=white)
-    ![Datacamp](https://img.shields.io/badge/Datacamp-0A6EAA?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
     ![Edx](https://img.shields.io/badge/Edx-005A72?style=for-the-badge&logo=edx&logoColor=white)
     ![Educativ](https://img.shields.io/badge/Educativ-0E3E5B?style=for-the-badge&logo=educative&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/Terraform-005F73?style=for-the-badge&logo=terraform&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+    ![Cloud](https://img.shields.io/badge/Cloud-007ACC?style=for-the-badge&logo=cloud&logoColor=white)
   ">
 </picture>
 
@@ -128,18 +129,10 @@
          media="(prefers-color-scheme: dark)"
       />
        <source
-         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=0a14ff&icon_color=0a14ff&bg_color=ffffff"
+         srcset="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=00a496&text_color=00a496&icon_color=00a496&bg_color=ffffff"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=0a14ff&text_color=0a14ff&icon_color=0a14ff&bg_color=ffffff" width="650">
+      <img src="https://github-readme-stats.vercel.app/api?username=chloe0524&show_icons=true&theme=blue-green&title_color=00a496&text_color=00a496&icon_color=00a496&bg_color=ffffff" width="650">
    </picture>
 </h1>
 
-
-<h1 align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=eb9300&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Prompt&size=24&pause=1000&color=000AFF&random=false&width=440&lines=C%2322+TLS+for+the+win+%3C3" alt="Typing SVG">
-   </picture>
-</h1>
