@@ -77,49 +77,17 @@
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/01fb2be9-aa60-477f-bf6f-16e75f70915f">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea">
-      <img src="https://github.com/user-attachments/assets/fa11af7d-da27-4c8e-b382-88e51dd418ea" alt="Banner" width="40%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/dd19c845-8f32-4bf1-8285-344e67b6ff8b">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/134db8e8-156d-41ce-9fdb-f30f80f703c8">
+      <img src="https://github.com/user-attachments/assets/134db8e8-156d-41ce-9fdb-f30f80f703c8" alt="Application Security" width="90%">
    </picture>
 </p>
 
 <p align="center">
    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7a8a220f-f826-4a8c-a063-d9e9329682a8" alt="iron" width="90%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
-      <img src="https://github.com/user-attachments/assets/1088d080-c47c-4cc8-b4b3-6b534c98d897" alt="carbon (24)" width="90%">
-   </picture>
-</p>
-
-<p align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/af83e3d3-8f28-4a1f-becd-7989b8abcc8a" alt="iron" width="90%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" width="90%">
-      <img src="https://github.com/user-attachments/assets/fb4e189c-e1d3-442f-bdcf-955d9da26c2a" alt="carbon (24)" width="90%">
-   </picture>
-</p>
-
-<p align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c9e36e96-88dd-4d3a-806b-83369bbc4a82" alt="iron" width="90%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)" width="90%">
-      <img src="https://github.com/user-attachments/assets/431a2c61-18cc-4f78-aa8f-0f54ab52ff6c" alt="carbon (24)" width="90%">
-   </picture>
-</p>
-
-<p align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e2e16f0e-5aa1-449c-b539-5d9876bcee0d" alt="iron" width="90%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" width="90%">
-      <img src="https://github.com/user-attachments/assets/c94eebf3-e84a-4f22-bf01-bfe3a7a898f8" alt="carbon (24)" width="90%">
-   </picture>
-</p>
-
-<p align="center">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/170d9e74-9851-4db2-8df5-597f070178b3" alt="iron" width="90%">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
-      <img src="https://github.com/user-attachments/assets/055f85ae-acbd-4bc4-b0c9-f7df3a0667a0" alt="carbon (24)" width="90%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8972d5ca-bccd-4823-a906-2d1b8fa0254c">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/51edf828-fb50-4306-be33-f7e31562637f">
+      <img src="https://github.com/user-attachments/assets/51edf828-fb50-4306-be33-f7e31562637f" alt="Infrastructure, Cloud & IaC Security" width="90%">
    </picture>
 </p>
 
